@@ -1,0 +1,11 @@
+.title {
+    color: #3F3D56;
+    text-align: center;
+    font-family: Inter;
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.title b {
+    color: #FF9900;
+}

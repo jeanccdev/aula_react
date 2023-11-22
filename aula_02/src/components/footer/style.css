@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    position: absolute;
+    bottom: 3em;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+footer a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #FF9900;
+    mix-blend-mode: normal;
+}
